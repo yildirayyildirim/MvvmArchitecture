@@ -1,0 +1,1 @@
+/Users/trhqwmlycmd6p/Desktop/workspaces/MvvmArchitecture/buildSrc/build/classes/kotlin/main/AppDetail.class:/Users/trhqwmlycmd6p/Desktop/workspaces/MvvmArchitecture/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/trhqwmlycmd6p/Desktop/workspaces/MvvmArchitecture/buildSrc/build/classes/kotlin/main/Versions.class
